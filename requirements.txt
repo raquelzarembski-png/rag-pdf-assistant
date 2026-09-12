@@ -2,6 +2,7 @@ streamlit
 langchain
 langchain-community
 langchain-openai
-faiss-cpu
-pypdf
 openai
+pypdf
+faiss-cpu
+python-dotenv
